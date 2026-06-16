@@ -6,17 +6,14 @@ This project was developed as part of the **Data Warehousing and Business Intell
 
 The project covers the complete DWBI pipeline, including data extraction, ETL processing, data warehouse design, multidimensional analysis, OLAP operations, and interactive dashboard creation.
 
-## 🗂️ Dataset
+## 📂 Dataset
 
 * **Dataset:** US Regional Sales Data
 * **Source:** Kaggle
-* **Dataset Link:** *[(Paste your Kaggle dataset URL here)](https://www.kaggle.com/datasets/talhabu/us-regional-sales-data)*
+* **Dataset Link:** https://www.kaggle.com/datasets/talhabu/us-regional-sales-data
 
-Example:
+> This dataset contains information related to customers, products, stores, sales channels, dates, and sales transactions across different regions in the United States.
 
-`https://www.kaggle.com/datasets/talhabu/us-regional-sales-data`
-
-> The dataset contains information related to customers, products, stores, sales channels, dates, and sales transactions across different regions in the United States.
 
 ---
 
